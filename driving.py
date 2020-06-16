@@ -12,5 +12,6 @@ elif country == 'us':
         print('You can take the drivers license')
     else:
         print('You cannot take the drivers license yet')
-
+else:
+    print('You only can insert taiwan or us')
 
